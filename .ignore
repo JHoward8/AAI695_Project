@@ -2,7 +2,7 @@
 original
 
 # ignore cropped data (also too large)
-cropped/*.tif
+cropped/*.png
 
 # ignore other info
 .ipynb_checkpoints
