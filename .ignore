@@ -1,0 +1,8 @@
+# ignore original data
+original
+
+# ignore cropped data (also too large)
+cropped/*.tif
+
+# ignore other info
+.ipynb_checkpoints
